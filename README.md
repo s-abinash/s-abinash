@@ -1,6 +1,6 @@
-### Hi there, I'm Abinash 
+## Hi there, I'm Abinash <img alt="PRO" width="22px" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/>
 
-## I'm a Developer, Student and Trainer!
+### I'm a Developer, Student and Trainer!
 - 🔭 I’m currently focusing on CNN!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -44,4 +44,5 @@
 
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s-abinash&show_icons=true&hide_border=true" />
-
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-abinash&layout=compact)](https://github.com/s-abinash)
