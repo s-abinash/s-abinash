@@ -40,6 +40,7 @@
 
 <br />
 <br />
-
+<div>
 <img align="left" alt="Abinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s-abinash&show_icons=true&hide_border=true" />
 <img align="right" alt="Abinash's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-abinash&layout=compact&hide=TSQL"/>
+</div>
