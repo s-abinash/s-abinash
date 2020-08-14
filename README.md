@@ -1,9 +1,9 @@
-## Hi there, I'm Abinash <!--<img alt="PRO" width="22px" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/>-->
+## Hey there, I'm Abinash <!--<img alt="PRO" width="22px" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/>-->
 
 ### I'm a Developer, Student and Trainer!
 - 🔭 I’m currently focusing on CNN!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everything 🤗
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing🎤 and cook🍳
 
