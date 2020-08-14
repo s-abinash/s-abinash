@@ -1,4 +1,4 @@
-## Hi there, I'm Abinash <img alt="PRO" width="22px" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/>
+## Hi there, I'm Abinash <!--<img alt="PRO" width="22px" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/>-->
 
 ### I'm a Developer, Student and Trainer!
 - 🔭 I’m currently focusing on CNN!
