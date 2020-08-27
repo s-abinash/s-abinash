@@ -1,5 +1,7 @@
 ## Hey there, I'm Abinash <!--<img alt="PRO" width="22px" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/>-->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-abinash" alt="s-abinash" /> </p>
+
 ### I'm a Developer, Student and Trainer!
 - 🔭 I’m currently focusing on CNN!
 - 🌱 I’m currently learning everything 🤗
