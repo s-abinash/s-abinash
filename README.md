@@ -12,12 +12,12 @@
 ### Connect with me:
 
 
+[<img align="left" alt="Abinash | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/s-abinash)
 [<img align="left" alt="Abinash | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://instagram.com/abinashteja)
 [<img align="left" alt="Abinash | Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>](https://t.me/abinashteja)
-[<img align="left" alt="Abinash | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](http://twitter.com/AbinashTeja)
-[<img align="left" alt="Abinash | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/s-abinash)
+<!-- [<img align="left" alt="Abinash | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](http://twitter.com/AbinashTeja) -->
 [<img align="left" alt="Abinash | Outlook" width="22px" src="https://img.icons8.com/fluent/48/000000/microsoft-outlook-2019.png"/>](mailto:s.abninash@outlook.com)
-
+[<img align="left" alt="Abinash | Stack Overflow" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/16213095/abinash-s)
 
 <br />
 
